@@ -2,7 +2,7 @@
 
 ###Make a basic CMS
 
-This is one of a series of 3 newbie friendly projects for 24 Pull Requests: http://24pullrequests.com/.
+This is one of a series of 3 beginner friendly projects for 24 Pull Requests: http://24pullrequests.com/.
 
 We want to make a basic content management service for posting, sharing and commenting on thoughts, problems and todos.
 Founders & Coders is planning to create an internal service potential memebers, students and graduates however we think the community should get involved.
